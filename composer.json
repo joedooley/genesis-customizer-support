@@ -1,8 +1,9 @@
 {
 	"name": "devdesigns/genesis-customizer-support",
-	"description": "Adds customizer support to your Genesis child theme.",
 	"type": "wordpress-plugin",
-	"homepage": "https://developingdesigns.com/",
+	"description": "Adds customizer support to your Genesis child theme.",
+	"homepage": "https://github.com/joedooley/genesis-customizer-support",
+	"keywords": [ "wordpress", "wordpress-plugin", "genesis", "genesis-framework", "customizer" ],
 	"license": "GPL-3.0-only",
 	"authors": [
 		{
